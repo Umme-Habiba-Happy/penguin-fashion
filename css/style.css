@@ -1,0 +1,86 @@
+.navbar-brand{
+     width: 60%;
+
+
+}
+.headline-1{
+     color: orange;
+}
+.grey{
+     color: #363958;
+}
+.text{
+     padding-left: 50px;
+     padding-top: 200px;
+}
+.btn{
+     color: white;
+     background-color: #85A520;
+     text-align: center;
+}
+.head{
+     background-color:honeydew;
+}
+.price{
+     float: left;
+     padding-right: 30px;
+     color:orange;
+  
+}
+
+.navbar-nav{
+     font-size: medium;
+}
+.nav:hover{
+     
+     background-color: #85A520;
+     border-radius: 10px;
+     
+}
+section{
+     height: 800px;
+
+     
+}
+    
+.first{
+     background-color: honeydew;
+}
+.half-width{
+     float: left;
+     width: 50%;
+}
+.half-width img{
+     width: 100%;
+}
+.my-card{
+     width: 98%;
+     height: 70%;
+     border: none;
+     border-radius: 30px;
+
+}
+.card-img-top{
+     
+     display: block;
+}
+
+.contact{
+     
+     border-radius: 20px;
+
+
+}
+.my-footer{
+     background-color: white;
+     border: none;
+     
+}
+.mail:hover{
+     
+     background-color: #536F16;
+}
+footer{
+     
+     background-color: honeydew;
+}
